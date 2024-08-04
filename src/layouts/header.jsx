@@ -30,7 +30,7 @@ export const Header = () => {
       </div>
       <div className="flex justify-end  bg-primary px-8 py-0.5">
         <div className="flex justify-between items-center bg-white px-2 rounded">
-          <input placeholder="search ..." className="px-2" type="text" />
+          <input placeholder="search ..." className="px-2 outline-none" type="text" />
           <IoMdSearch />
         </div>
       </div>
