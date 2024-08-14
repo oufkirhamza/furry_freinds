@@ -22,9 +22,8 @@ export const MyProvider = ({ children }) => {
       breed: "Dog",
       age: 6,
       size: "Large",
-      story:
-        "Pitter is a friendly, playful, smart male dog. Only adapted to a house.",
-      images: [pet1, "URL_to_Pitter's_image2"],
+      story: `We have had Magie since she was able to leave her mum as a puppy so 8 weeks old.Magie currently lives with two children age 7 and 13 and has many visitors to the house which are children she is great with kids.There's lots of cats birds etc around the area and in the garden on most days as she's not fussed by these.`,
+      images: [pet1, pet1, pet1, pet1],
       isLike: true,
       isNew: false,
     },
@@ -38,7 +37,7 @@ export const MyProvider = ({ children }) => {
       size: "Small",
       story:
         "Hero is a playful, smart male cat. You can keep him in an apartment.",
-      images: [pet2, "URL_to_Hero's_image2"],
+      images: [pet2, pet2, pet2, pet2],
       isLike: false,
       isNew: false,
     },
@@ -52,7 +51,7 @@ export const MyProvider = ({ children }) => {
       size: "Large",
       story:
         "Magie currently lives with two children age 7 and 13 and has many visitors to the house which are children she is great with kids. There's lots of cats birds etc around the area and in the garden on most days as she's not fussed by these.",
-      images: [pet3, "URL_to_Magie's_image2"],
+      images: [pet3, pet3, pet3, pet3],
       isLike: false,
       isNew: false,
     },
@@ -66,7 +65,7 @@ export const MyProvider = ({ children }) => {
       size: "Small",
       story:
         "Lola is a friendly, playful, smart female dog. Only adapted to a house.",
-      images: [pet4, "URL_to_Lola's_image2"],
+      images: [pet4, pet4, pet4, pet4],
       isLike: false,
       isNew: false,
     },
@@ -80,7 +79,7 @@ export const MyProvider = ({ children }) => {
       size: "Small",
       story:
         "Felix currently lives with two children age 7 and 13 and has many visitors to the house which are children he is great with kids. There's lots of cats birds etc around the area and in the garden on most days as he's not fussed by these.",
-      images: [pet5, "URL_to_Felix's_image2"],
+      images: [pet5, pet5, pet5, pet5],
       isLike: false,
       isNew: false,
     },
@@ -94,7 +93,7 @@ export const MyProvider = ({ children }) => {
       size: "Large",
       story:
         "Snoopy is a playful, smart male dog. You can keep him in an apartment.",
-      images: [pet6, "URL_to_Snoopy's_image2"],
+      images: [pet6, pet6, pet6, pet6],
       isLike: false,
       isNew: false,
     },
@@ -108,7 +107,7 @@ export const MyProvider = ({ children }) => {
       size: "Large",
       story:
         "Balto is a friendly, playful, smart male dog. Only adapted to a house.",
-      images: [pet7, "URL_to_Balto's_image2"],
+      images: [pet7, pet7, pet7, pet7],
       isLike: false,
       isNew: false,
     },
@@ -122,7 +121,7 @@ export const MyProvider = ({ children }) => {
       size: "Small",
       story:
         "Nala is a playful, smart male cat. You can keep him in an apartment.",
-      images: [pet8, "URL_to_Nala's_image2"],
+      images: [pet8, pet8, pet8, pet8],
       isLike: false,
       isNew: false,
     },
@@ -136,7 +135,7 @@ export const MyProvider = ({ children }) => {
       size: "Large",
       story:
         "Max is a friendly, smart male dog. You can keep him in an apartment.",
-      images: [pet9, "URL_to_Max's_image2"],
+      images: [pet9, pet9, pet9, pet9],
       isLike: false,
       isNew: false,
     },
@@ -150,7 +149,7 @@ export const MyProvider = ({ children }) => {
       size: "Small",
       story:
         "Cheshire is a playful, smart male cat. You can keep him in an apartment.",
-      images: [pet10, "URL_to_Cheshire's_image2"],
+      images: [pet10, pet10, pet10, pet10],
       isLike: false,
       isNew: false,
     },
@@ -164,7 +163,7 @@ export const MyProvider = ({ children }) => {
       size: "Large",
       story:
         "Shadow is a playful, smart male dog. You can keep him in an apartment.",
-      images: [pet11, "URL_to_Shadow's_image2"],
+      images: [pet11, pet11, pet11, pet11],
       isLike: false,
       isNew: false,
     },
@@ -178,7 +177,7 @@ export const MyProvider = ({ children }) => {
       size: "Small",
       story:
         "Simba is a friendly, smart male cat. You can keep him in an apartment.",
-      images: [pet12, "URL_to_Simba's_image2"],
+      images: [pet12, pet12, pet12, pet12],
       isLike: false,
       isNew: false,
     },
