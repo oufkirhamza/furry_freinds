@@ -9,6 +9,8 @@ import { Error } from "./pages/Error/error";
 import { PetDetails } from "./pages/Petdetails/petDetails";
 import ChooseToAdopt from "./pages/ChooseToAdopt/chooseToAdopt";
 import { OurMission } from "./pages/Ourmission/ourMission";
+import Contact from "./pages/Contact/contact";
+import Review from "./pages/review/review";
 function App() {
   return (
     <MyProvider>
@@ -23,6 +25,8 @@ function App() {
           element={<ChooseToAdopt />}
         />
         <Route path="/about_us/our_mission" element={<OurMission />} />
+        <Route path="/about_us/contact_us" element={<Contact />} />
+        <Route path="/about_us/write_review" element={<Review />} />
       </Routes>
       <Footer />
     </MyProvider>
